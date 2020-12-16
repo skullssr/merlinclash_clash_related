@@ -1,0 +1,5 @@
+# 内容：国外附加规则
+# 数量：0条
+# DOMAIN,www.xxx.com
+# DOMAIN-SUFFIX,xxx.com
+# IP-CIDR,192.168.1.1/32
