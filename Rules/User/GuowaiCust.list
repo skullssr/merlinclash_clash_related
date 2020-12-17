@@ -1,5 +1,18 @@
 # 内容：国外附加规则
-# 数量：0条
-# DOMAIN,www.xxx.com
-# DOMAIN-SUFFIX,xxx.com
-# IP-CIDR,192.168.1.1/32
+
+DOMAIN-KEYWORD,spike-chunsoft
+DOMAIN-SUFFIX,studiowildcard.com
+DOMAIN-SUFFIX,demonware.net
+DOMAIN-SUFFIX,bungie.net
+DOMAIN-SUFFIX,ea.com
+DOMAIN-SUFFIX,deadbydaylight.com
+DOMAIN-SUFFIX,bethesda.net
+DOMAIN-SUFFIX,escapefromtarkov.com
+DOMAIN-SUFFIX,eveonline.com
+DOMAIN-SUFFIX,forzamotorsport.net
+DOMAIN-SUFFIX,ubisoft.com
+DOMAIN-SUFFIX,maplestory.nexon.net
+DOMAIN-SUFFIX,pubg.com
+DOMAIN-SUFFIX,cyberpunk.net
+DOMAIN-SUFFIX,cdprojektred.com
+DOMAIN-SUFFIX,respawn.com
