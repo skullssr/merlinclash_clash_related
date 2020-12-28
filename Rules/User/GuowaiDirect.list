@@ -1,8 +1,0 @@
-# 内容：非大陆直连
-
-DOMAIN,www.zhjtong.com
-DOMAIN-SUFFIX,zhjtong.com
-IP-CIDR,129.226.49.82/32
-USER-AGENT,SpeedTest*
-DOMAIN-KEYWORD,speedtest
-DOMAIN-SUFFIX,ooklaserver.net
