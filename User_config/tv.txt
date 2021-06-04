@@ -1,17 +1,17 @@
 央视频道,#genre#
-CCTV1,http://111.12.102.68:6610/PLTV/77777777/224/3221225654/index.m3u8?
-CCTV1,http://111.12.102.68:6610/PLTV/77777777/224/3221225674/index.m3u8?
-CCTV1,http://111.12.102.68:6610/PLTV/77777777/224/3221225769/index.m3u8?
-CCTV1,http://111.12.102.68:6610/PLTV/77777777/224/3221225772/index.m3u8?
-CCTV1,http://183.207.255.190/live/program/live/cctv1hd/2300000/mnf.m3u8
-CCTV1,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-CCTV1,http://ivi.bupt.edu.cn/hls/cctv1.m3u8
+CCTV-1综合,http://111.12.102.68:6610/PLTV/77777777/224/3221225654/index.m3u8?,CCTV1
+CCTV-1综合,http://111.12.102.68:6610/PLTV/77777777/224/3221225674/index.m3u8?,CCTV1
+CCTV-1综合,http://111.12.102.68:6610/PLTV/77777777/224/3221225769/index.m3u8?,CCTV1
+CCTV-1综合,http://111.12.102.68:6610/PLTV/77777777/224/3221225772/index.m3u8?,CCTV1
+CCTV-1综合,http://183.207.255.190/live/program/live/cctv1hd/2300000/mnf.m3u8,CCTV1
+CCTV-1综合,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8,CCTV1
+CCTV-1综合,http://ivi.bupt.edu.cn/hls/cctv1.m3u8,CCTV1
 
-CCTV2,http://111.12.102.68:6610/PLTV/77777777/224/3221225676/index.m3u8?
-CCTV2,http://111.12.102.68:6610/PLTV/77777777/224/3221225657/index.m3u8?
-CCTV2,http://183.207.255.190/live/program/live/cctv2/1300000/mnf.m3u8
-CCTV2,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
-CCTV2,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+CCTV2,vod:http://111.12.102.68:6610/PLTV/77777777/224/3221225676/index.m3u8?
+CCTV2,vod:http://111.12.102.68:6610/PLTV/77777777/224/3221225657/index.m3u8?
+CCTV2,vod:http://183.207.255.190/live/program/live/cctv2/1300000/mnf.m3u8
+CCTV2,vod:http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
+CCTV2,vod:http://ivi.bupt.edu.cn/hls/cctv2.m3u8
 
 CCTV3,http://111.12.102.68:6610/PLTV/77777777/224/3221225677/index.m3u8?
 CCTV3,http://111.12.102.68:6610/PLTV/77777777/224/3221225713/index.m3u8?
@@ -137,8 +137,8 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/01
 深圳卫视,http://ivi.bupt.edu.cn/hls/szhd.m3u8
 深圳卫视,http://ivi.bupt.edu.cn/hls/sztv.m3u8
 
-广东珠江,http://111.161.121.214/nclive.grtn.cn/zjpd/sd/live.m3u8
-广东珠江,http://111.12.102.68:6610/PLTV/77777777/224/3221225717/index.m3u8?
+珠江频道,http://111.161.121.214/nclive.grtn.cn/zjpd/sd/live.m3u8
+珠江频道,http://111.12.102.68:6610/PLTV/77777777/224/3221225717/index.m3u8?
 
 广东新闻,http://111.161.121.214/nclive.grtn.cn/xwpd/sd/live.m3u8
 广东新闻,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=235&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
