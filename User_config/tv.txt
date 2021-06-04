@@ -132,6 +132,11 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/01
 广东卫视,http://ivi.bupt.edu.cn/hls/gdhd.m3u8
 广东卫视,http://ivi.bupt.edu.cn/hls/gdtv.m3u8
 
+深圳卫视,http://111.12.102.68:6610/PLTV/77777777/224/3221225691/index.m3u8?
+深圳卫视,http://111.12.102.68:6610/PLTV/77777777/224/3221225725/index.m3u8?
+深圳卫视,http://ivi.bupt.edu.cn/hls/szhd.m3u8
+深圳卫视,http://ivi.bupt.edu.cn/hls/sztv.m3u8
+
 NewTV,#genre#
 NewTV广东,http://39.135.138.8:6610/PLTV/88888888/224/3221226185/2/index.m3u8?fmt=ts2hls
 NewTV广西,http://39.135.138.8:6610/PLTV/88888888/224/3221226186/2/index.m3u8?fmt=ts2hls
