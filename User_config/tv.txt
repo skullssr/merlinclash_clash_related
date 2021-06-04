@@ -13,18 +13,18 @@ CCTV2 财经,http://183.207.255.190/live/program/live/cctv2/1300000/mnf.m3u8
 CCTV2 财经,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
 CCTV2 财经,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
 
-CCTV3综艺,http://111.12.102.68:6610/PLTV/77777777/224/3221225677/index.m3u8?
-CCTV3综艺,http://111.12.102.68:6610/PLTV/77777777/224/3221225713/index.m3u8?
-CCTV3综艺,http://183.207.255.190/live/program/live/cctv3/1300000/mnf.m3u8
-CCTV3综艺,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-CCTV3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8
+CCTV3,http://111.12.102.68:6610/PLTV/77777777/224/3221225677/index.m3u8?
+CCTV3,http://111.12.102.68:6610/PLTV/77777777/224/3221225713/index.m3u8?
+CCTV3,http://183.207.255.190/live/program/live/cctv3/1300000/mnf.m3u8
+CCTV3,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+CCTV3,http://ivi.bupt.edu.cn/hls/cctv3.m3u8
 
-CCTV4中文国际,http://111.12.102.68:6610/PLTV/77777777/224/3221225761/index.m3u8?
-CCTV4中文国际,http://111.12.102.68:6610/PLTV/77777777/224/3221225775/index.m3u8?
-CCTV4中文国际,http://111.12.102.68:6610/PLTV/77777777/224/3221225753/index.m3u8?
-CCTV4中文国际,http://183.207.255.190/live/program/live/cctv4/1300000/mnf.m3u8
-CCTV4中文国际,http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
-CCTV4中文国际,http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+CCTV4中文国际,tvg-name="CCTV4",http://111.12.102.68:6610/PLTV/77777777/224/3221225761/index.m3u8?
+CCTV4中文国际,tvg-name="CCTV4",http://111.12.102.68:6610/PLTV/77777777/224/3221225775/index.m3u8?
+CCTV4中文国际,tvg-name="CCTV4",http://111.12.102.68:6610/PLTV/77777777/224/3221225753/index.m3u8?
+CCTV4中文国际,tvg-name="CCTV4",http://183.207.255.190/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV4中文国际,tvg-name="CCTV4",http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
+CCTV4中文国际,tvg-name="CCTV4",http://ivi.bupt.edu.cn/hls/cctv4.m3u8
 
 CCTV5体育,http://111.12.102.68:6610/PLTV/77777777/224/3221225680/index.m3u8?
 CCTV5体育,http://111.12.102.68:6610/PLTV/77777777/224/3221225660/index.m3u8?
