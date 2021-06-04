@@ -1,17 +1,17 @@
 央视频道,#genre#
-CCTV1综合,http://111.12.102.68:6610/PLTV/77777777/224/3221225654/index.m3u8?
-CCTV1综合,http://111.12.102.68:6610/PLTV/77777777/224/3221225674/index.m3u8?
-CCTV1综合,http://111.12.102.68:6610/PLTV/77777777/224/3221225769/index.m3u8?
-CCTV1综合,http://111.12.102.68:6610/PLTV/77777777/224/3221225772/index.m3u8?
-CCTV1综合,http://183.207.255.190/live/program/live/cctv1hd/2300000/mnf.m3u8
-CCTV1综合,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-CCTV1综合,http://ivi.bupt.edu.cn/hls/cctv1.m3u8
+CCTV-1综合,http://111.12.102.68:6610/PLTV/77777777/224/3221225654/index.m3u8?
+CCTV-1综合,http://111.12.102.68:6610/PLTV/77777777/224/3221225674/index.m3u8?
+CCTV-1综合,http://111.12.102.68:6610/PLTV/77777777/224/3221225769/index.m3u8?
+CCTV-1综合,http://111.12.102.68:6610/PLTV/77777777/224/3221225772/index.m3u8?
+CCTV-1综合,http://183.207.255.190/live/program/live/cctv1hd/2300000/mnf.m3u8
+CCTV-1综合,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+CCTV-1综合,http://ivi.bupt.edu.cn/hls/cctv1.m3u8
 
-CCTV2财经,http://111.12.102.68:6610/PLTV/77777777/224/3221225676/index.m3u8?
-CCTV2财经,http://111.12.102.68:6610/PLTV/77777777/224/3221225657/index.m3u8?
-CCTV2财经,http://183.207.255.190/live/program/live/cctv2/1300000/mnf.m3u8
-CCTV2财经,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
-CCTV2财经,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+CCTV2-财经,http://111.12.102.68:6610/PLTV/77777777/224/3221225676/index.m3u8?
+CCTV2-财经,http://111.12.102.68:6610/PLTV/77777777/224/3221225657/index.m3u8?
+CCTV2-财经,http://183.207.255.190/live/program/live/cctv2/1300000/mnf.m3u8
+CCTV2-财经,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
+CCTV2-财经,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
 
 CCTV3综艺,http://111.12.102.68:6610/PLTV/77777777/224/3221225677/index.m3u8?
 CCTV3综艺,http://111.12.102.68:6610/PLTV/77777777/224/3221225713/index.m3u8?
