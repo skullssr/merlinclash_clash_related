@@ -104,13 +104,13 @@ CGTN,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 CGTN记录,http://livedoc.cgtn.com/500d/prog_index.m3u8
 CGTN记录,http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8
 
-CETV1,http://111.12.102.68:6610/PLTV/77777777/224/3221225776/index.m3u8?,tvmao-jiaoyu1tai
-CETV1,http://ivi.bupt.edu.cn/hls/cetv1.m3u8,tvmao-jiaoyu1tai
+CETV1,http://111.12.102.68:6610/PLTV/77777777/224/3221225776/index.m3u8?,tvmao-教育1台
+CETV1,http://ivi.bupt.edu.cn/hls/cetv1.m3u8,tvmao-教育1台
 
-CETV3,http://ivi.bupt.edu.cn/hls/cetv3.m3u8,tvmao-jiaoyu3tai
+CETV3,http://ivi.bupt.edu.cn/hls/cetv3.m3u8,tvmao-教育3台
 
-CETV4,http://111.12.102.68:6610/PLTV/77777777/224/3221225723/index.m3u8?,tvmao-jiaoyu4tai
-CETV4,http://ivi.bupt.edu.cn/hls/cetv4.m3u8,tvmao-jiaoyu4tai
+CETV4,http://111.12.102.68:6610/PLTV/77777777/224/3221225723/index.m3u8?,tvmao-教育4台
+CETV4,http://ivi.bupt.edu.cn/hls/cetv4.m3u8,tvmao-教育4台
 
 CHC高清电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
@@ -171,7 +171,7 @@ GRTN文化,http://glive.grtn.cn/live/wenhua_test0203.m3u8
 湛江综合,http://dslive.grtn.cn/zjzh/sd/live.m3u8
 清远综合,http://dslive.grtn.cn/qyzh/sd/live.m3u8
 河源综合,http://dslive.grtn.cn/hyzh/sd/live.m3u8
-汕尾综合,http://dslive.grtn.cn/swzh/sd/live.m3u8,tvmao-shanweizonghepindao
+汕尾综合,http://dslive.grtn.cn/swzh/sd/live.m3u8,tvmao-汕尾综合频道
 云浮综合,http://dslive.grtn.cn/yfzh/sd/live.m3u8
 
 卫视频道,#genre#
@@ -403,6 +403,7 @@ ViuTVsix,http://61.238.6.49:8000/bysid/96.m3u8
 
 TVB星河频道,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
+星空卫视,rtmp://58.200.131.2:1935/livetv/startv
 星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 星空卫视,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 
