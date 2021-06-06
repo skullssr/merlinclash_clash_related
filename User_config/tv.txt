@@ -31,10 +31,10 @@ CCTV-5体育,http://111.12.102.68:6610/PLTV/77777777/224/3221225660/index.m3u8?,
 CCTV-5体育,http://111.12.102.68:6610/PLTV/77777777/224/3221225516/index.m3u8?,cntv-cctv5
 CCTV-5体育,http://183.207.255.190/live/program/live/cctv5/1300000/mnf.m3u8,cntv-cctv5
 
-CCTV-5+体育赛事,http://111.12.102.68:6610/PLTV/77777777/224/3221225712/index.m3u8?,cntv-cctv5+
-CCTV-5+体育赛事,http://111.12.102.68:6610/PLTV/77777777/224/3221225621/index.m3u8?,cntv-cctv5+
-CCTV-5+体育赛事,http://183.207.255.190/live/program/live/cctv5phd/2300000/mnf.m3u8,cntv-cctv5+
-CCTV-5+体育赛事,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8,cntv-cctv5+
+CCTV-5+体育赛事,http://111.12.102.68:6610/PLTV/77777777/224/3221225712/index.m3u8?,cntv-cctv5plus
+CCTV-5+体育赛事,http://111.12.102.68:6610/PLTV/77777777/224/3221225621/index.m3u8?,cntv-cctv5plus
+CCTV-5+体育赛事,http://183.207.255.190/live/program/live/cctv5phd/2300000/mnf.m3u8,cntv-cctv5plus
+CCTV-5+体育赛事,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8,cntv-cctv5plus
 
 CCTV-6电影,http://111.12.102.68:6610/PLTV/77777777/224/3221225683/index.m3u8?,cntv-cctv6
 CCTV-6电影,http://111.12.102.68:6610/PLTV/77777777/224/3221225715/index.m3u8?,cntv-cctv6
@@ -104,13 +104,13 @@ CGTN,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 CGTN记录,http://livedoc.cgtn.com/500d/prog_index.m3u8
 CGTN记录,http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8
 
-CETV1,http://111.12.102.68:6610/PLTV/77777777/224/3221225776/index.m3u8?,tvmao-zhongguojiaoyu1tai
-CETV1,http://ivi.bupt.edu.cn/hls/cetv1.m3u8,tvmao-zhongguojiaoyu1tai
+CETV1,http://111.12.102.68:6610/PLTV/77777777/224/3221225776/index.m3u8?,tvmao-jiaoyu1tai
+CETV1,http://ivi.bupt.edu.cn/hls/cetv1.m3u8,tvmao-jiaoyu1tai
 
-CETV3,http://ivi.bupt.edu.cn/hls/cetv3.m3u8,tvmao-zhongguojiaoyu3tai
+CETV3,http://ivi.bupt.edu.cn/hls/cetv3.m3u8,tvmao-jiaoyu3tai
 
-CETV4,http://111.12.102.68:6610/PLTV/77777777/224/3221225723/index.m3u8?,tvmao-zhongguojiaoyu4tai
-CETV4,http://ivi.bupt.edu.cn/hls/cetv4.m3u8,tvmao-zhongguojiaoyu4tai
+CETV4,http://111.12.102.68:6610/PLTV/77777777/224/3221225723/index.m3u8?,tvmao-jiaoyu4tai
+CETV4,http://ivi.bupt.edu.cn/hls/cetv4.m3u8,tvmao-jiaoyu4tai
 
 CHC高清电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
@@ -171,7 +171,7 @@ GRTN文化,http://glive.grtn.cn/live/wenhua_test0203.m3u8
 湛江综合,http://dslive.grtn.cn/zjzh/sd/live.m3u8
 清远综合,http://dslive.grtn.cn/qyzh/sd/live.m3u8
 河源综合,http://dslive.grtn.cn/hyzh/sd/live.m3u8
-汕尾综合,http://dslive.grtn.cn/swzh/sd/live.m3u8
+汕尾综合,http://dslive.grtn.cn/swzh/sd/live.m3u8,tvmao-shanweizonghepindao
 云浮综合,http://dslive.grtn.cn/yfzh/sd/live.m3u8
 
 卫视频道,#genre#
