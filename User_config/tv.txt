@@ -393,11 +393,6 @@ J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 无线财经,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 无线财经,http://ye23.win/iptv/tvb.php?id=2
 
-无线直播,http://ye23.win/iptv/tvb.php?id=3
-
-有线新闻,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-SCC/03.m3u8
-有线娱乐,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
-
 ViuTV,http://cdn.hkdtmb.com/hls/99/index.m3u8
 ViuTV,http://185.207.176.189:8080/channels/tv-99/mpeg.2ts
 ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
