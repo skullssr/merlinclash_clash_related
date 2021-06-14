@@ -369,50 +369,50 @@ GRTN文化,http://glive.grtn.cn/live/wenhua_test0203.m3u8
 港台电视33,http://185.207.176.189:8080/channels/tv-33/mpeg.2ts
 港台电视33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
 
-翡翠台,http://119.128.233.181:9981/stream/channel/b2971004027d5539b61f4c52eaa50fec
 翡翠台,http://cdn.hkdtmb.com/hls/81/index.m3u8
 翡翠台,http://185.207.176.189:8080/channels/tv-81/mpeg.2ts
 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+翡翠台,http://119.128.233.181:9981/stream/channel/b2971004027d5539b61f4c52eaa50fec
 翡翠台,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
-J2,http://119.128.233.181:9981/stream/channel/5eeaae7a556718e777c0527fd9ea2a99
 J2,http://cdn.hkdtmb.com/hls/82/index.m3u8
 J2,http://185.207.176.189:8080/channels/tv-82/mpeg.2ts
 J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
+J2,http://119.128.233.181:9981/stream/channel/5eeaae7a556718e777c0527fd9ea2a99
 
-无线新闻,http://119.128.233.181:9981/stream/channel/8aa6b992fe66e78569666a93381bda69
 无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
 无线新闻,http://185.207.176.189:8080/channels/tv-83/mpeg.2ts
 无线新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
+无线新闻,http://119.128.233.181:9981/stream/channel/8aa6b992fe66e78569666a93381bda69
 无线新闻,http://ye23.win/iptv/tvb.php?id=1
 
-明珠台,http://119.128.233.181:9981/stream/channel/82893abce3dfefbfe4c092f201cd60c3
 明珠台,http://cdn.hkdtmb.com/hls/84/index.m3u8
 明珠台,http://185.207.176.189:8080/channels/tv-84/mpeg.2ts
 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+明珠台,http://119.128.233.181:9981/stream/channel/82893abce3dfefbfe4c092f201cd60c3
 明珠台,http://116.199.5.52:8114/00000000/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 
-无线财经,http://119.128.233.181:9981/stream/channel/8076b05819fde3aaa676a83bdc524fdc
 无线财经,http://cdn.hkdtmb.com/hls/85/index.m3u8
 无线财经,http://185.207.176.189:8080/channels/tv-85/mpeg.2ts
 无线财经,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+无线财经,http://119.128.233.181:9981/stream/channel/8076b05819fde3aaa676a83bdc524fdc
 无线财经,http://ye23.win/iptv/tvb.php?id=2
 
-ViuTVsix,http://119.128.233.181:9981/stream/channel/0320695d2c244f56385ad9be682cae87
 ViuTVsix,http://cdn.hkdtmb.com/hls/96/index.m3u8
 ViuTVsix,http://185.207.176.189:8080/channels/tv-96/mpeg.2ts
 ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+ViuTVsix,http://119.128.233.181:9981/stream/channel/0320695d2c244f56385ad9be682cae87
 ViuTVsix,http://61.238.6.49:8000/bysid/96.m3u8
 
-ViuTV,http://119.128.233.181:9981/stream/channel/8e63551e4b1ec99c42f828c5c3997a9c
 ViuTV,http://cdn.hkdtmb.com/hls/99/index.m3u8
 ViuTV,http://185.207.176.189:8080/channels/tv-99/mpeg.2ts
 ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+ViuTV,http://119.128.233.181:9981/stream/channel/8e63551e4b1ec99c42f828c5c3997a9c
 ViuTV,http://61.238.6.49:8000/bysid/99.m3u8
 
+香港开电视,http://cdn.hkdtmb.com/hls/77/index.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-香港开电视,http://cdn.hkdtmb.com/hls/77/index.m3u8
 
 TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
