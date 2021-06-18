@@ -230,59 +230,44 @@ GRTN文化,http://glive.grtn.cn/live/wenhua_test0203.m3u8
 凤凰卫视电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 
 港台电视31,http://cdn.hkdtmb.com/hls/31/index.m3u8
-港台电视31,http://cdn-cn.hkdtmb.com/hls/31/index.m3u8
-港台电视31,http://185.207.176.189:8080/channels/tv-31/mpeg.2ts
 港台电视31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
 港台电视31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 
 港台电视32,http://cdn.hkdtmb.com/hls/32/index.m3u8
-港台电视32,http://cdn-cn.hkdtmb.com/hls/32/index.m3u8
-港台电视32,http://185.207.176.189:8080/channels/tv-32/mpeg.2ts
 港台电视32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
 港台电视32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 
 港台电视33,http://cdn.hkdtmb.com/hls/33/index.m3u8
-港台电视33,http://cdn-cn.hkdtmb.com/hls/33/index.m3u8
-港台电视33,http://185.207.176.189:8080/channels/tv-33/mpeg.2ts
 港台电视33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
 
 香港国际财经,http://cdn.hkdtmb.com/hls/76/index.m3u8
-香港国际财经,http://cdn-cn.hkdtmb.com/hls/76/index.m3u8
 
 香港开电视,http://cdn.hkdtmb.com/hls/77/index.m3u8
-香港开电视,http://cdn-cn.hkdtmb.com/hls/77/index.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 翡翠台,http://cdn.hkdtmb.com/hls/81/index.m3u8
-翡翠台,http://cdn-cn.hkdtmb.com/hls/81/index.m3u8
 翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 
 J2,http://cdn.hkdtmb.com/hls/82/index.m3u8
-J2,http://cdn-cn.hkdtmb.com/hls/82/index.m3u8
 J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 
 无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
-无线新闻,http://cdn-cn.hkdtmb.com/hls/83/index.m3u8
 无线新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 无线新闻,http://ye23.win/iptv/tvb.php?id=1
 
 明珠台,http://cdn.hkdtmb.com/hls/84/index.m3u8
-明珠台,http://cdn-cn.hkdtmb.com/hls/84/index.m3u8
 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 
 无线财经,http://cdn.hkdtmb.com/hls/85/index.m3u8
-无线财经,http://cdn-cn.hkdtmb.com/hls/85/index.m3u8
 无线财经,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 无线财经,http://ye23.win/iptv/tvb.php?id=2
 
 ViuTVsix,http://cdn.hkdtmb.com/hls/96/index.m3u8
-ViuTVsix,http://cdn-cn.hkdtmb.com/hls/96/index.m3u8
 ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 ViuTVsix,http://61.238.6.49:8000/bysid/96.m3u8
 
 ViuTV,http://cdn.hkdtmb.com/hls/99/index.m3u8
-ViuTV,http://cdn-cn.hkdtmb.com/hls/99/index.m3u8
 ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 ViuTV,http://61.238.6.49:8000/bysid/99.m3u8
 
