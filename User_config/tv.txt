@@ -122,21 +122,21 @@ CETV4,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226362/1.m3u8
 凤凰卫视中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
 凤凰卫视中文,http://zb.ios.ifeng.com/live/05QGDA0CIRK/index.m3u8
 
-凤凰卫视香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+凤凰卫视香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 凤凰卫视香港,http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
 
 凤凰卫视电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 
-港台电视31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
 港台电视31,http://cdn.hkdtmb.com/hls/31/index.m3u8
+港台电视31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
 港台电视31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 
-港台电视32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
 港台电视32,http://cdn.hkdtmb.com/hls/32/index.m3u8
+港台电视32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
 港台电视32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 
-港台电视33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
 港台电视33,http://cdn.hkdtmb.com/hls/33/index.m3u8
+港台电视33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
 
 香港国际财经,http://cdn.hkdtmb.com/hls/76/index.m3u8
 
@@ -144,35 +144,35 @@ CETV4,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226362/1.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 翡翠台,http://cdn.hkdtmb.com/hls/81/index.m3u8
+翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 
-J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 J2,http://cdn.hkdtmb.com/hls/82/index.m3u8
+J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 
-无线新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 无线新闻,http://cdn.hkdtmb.com/hls/83/index.m3u8
+无线新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8
 无线新闻,http://ye23.win/iptv/tvb.php?id=1
 
 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 明珠台,http://cdn.hkdtmb.com/hls/84/index.m3u8
 
-无线财经,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 无线财经,http://cdn.hkdtmb.com/hls/85/index.m3u8
+无线财经,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 无线财经,http://ye23.win/iptv/tvb.php?id=2
 
-ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 ViuTVsix,http://cdn.hkdtmb.com/hls/96/index.m3u8
+ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 ViuTVsix,http://61.238.6.49:8000/bysid/96.m3u8
 
-ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 ViuTV,http://cdn.hkdtmb.com/hls/99/index.m3u8
+ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 ViuTV,http://61.238.6.49:8000/bysid/99.m3u8
 
 TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
-星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 星空卫视,rtmp://58.200.131.2:1935/livetv/startv
+星空卫视,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
 澳门卫视,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 澳门资讯,http://61.244.22.5/ch5/info_ch5.live/master.m3u8
@@ -181,10 +181,6 @@ TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 CHC高清电影,http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 CHC家庭影院,http://39.134.18.65/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 CHC动作电影,http://39.134.18.66/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-FOX犯罪电影,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
-FOX动作电影,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
-FOX家庭电影,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
-HBO原创电影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 
 NewTV剧场,#genre#
 NewTV广东,http://39.135.138.8:6610/PLTV/88888888/224/3221226185/2/index.m3u8?fmt=ts2hls
