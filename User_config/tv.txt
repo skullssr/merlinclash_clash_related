@@ -125,7 +125,7 @@ CETV4,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226362/1.m3u8
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 凤凰香港,http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
 
-卫视电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+凤凰电影,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 
 港台电视31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
 港台电视31,http://cdn.hkdtmb.com/hls/31/index.m3u8
