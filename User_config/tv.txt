@@ -28,16 +28,13 @@ CETV4,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226362/1.m3u8
 广东卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226508/1.m3u8
 深圳卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226495/1.m3u8
 
-广东珠江,http://120.237.43.202:8000/udp/239.10.0.62:1025
 广东珠江,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 广东珠江,http://120.237.43.202:8000/udp/239.10.0.121:1025
 广东珠江,http://111.161.121.214/nclive.grtn.cn/zjpd/sd/live.m3u8
 
-广东新闻,http://120.237.43.202:8000/udp/239.10.0.199:1025
 广东新闻,http://120.237.43.202:8000/udp/239.10.0.122:1025
 广东新闻,http://111.161.121.214/nclive.grtn.cn/xwpd/sd/live.m3u8
 
-广东公共,http://120.237.43.202:8000/udp/239.11.0.80:1025
 广东公共,http://120.237.43.202:8000/udp/239.10.0.123:1025
 广东公共,http://111.161.121.214/nclive.grtn.cn/ggpd/sd/live.m3u8
 
@@ -45,7 +42,6 @@ CETV4,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226362/1.m3u8
 广东体育,http://120.237.43.202:8000/udp/239.10.0.124:1025
 广东体育,http://111.161.121.214/nclive.grtn.cn/typd/sd/live.m3u8
 
-南方卫视,http://120.237.43.202:8000/udp/239.11.0.78:1025
 南方卫视,http://120.237.43.202:8000/udp/239.10.0.135:1025
 南方卫视,http://111.161.121.214/nclive.grtn.cn/tvs2/sd/live.m3u8
 
