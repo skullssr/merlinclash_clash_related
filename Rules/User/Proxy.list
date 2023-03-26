@@ -394,6 +394,7 @@ IP-CIDR,104.17.107.0/24,no-resolve
 
 # 内容：国外附加规则
 IP-CIDR,185.207.176.189/32,no-resolve
+IP-CIDR,61.244.22.4/32,no-resolve
 DOMAIN,hax.co.id
 DOMAIN,woiden.id
 DOMAIN-SUFFIX,boxjs.com
