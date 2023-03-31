@@ -397,6 +397,7 @@ IP-CIDR,185.207.176.189/32,no-resolve
 IP-CIDR,61.244.22.4/32,no-resolve
 DOMAIN,hax.co.id
 DOMAIN,woiden.id
+DOMAIN,tv.redrainl.site
 DOMAIN-SUFFIX,boxjs.com
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,hkdtmb.com
