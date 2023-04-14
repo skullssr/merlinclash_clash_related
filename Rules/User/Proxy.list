@@ -392,7 +392,12 @@ DOMAIN-SUFFIX,api.ip.sb.cdn.cloudflare.net
 DOMAIN-SUFFIX,a.nel.cloudflare.com
 IP-CIDR,104.17.107.0/24,no-resolve
 
-# 内容：国外附加规则
+#ChatGPT
+DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,auth0.com
+
+#Others
 IP-CIDR,185.207.176.189/32,no-resolve
 IP-CIDR,61.244.22.4/32,no-resolve
 DOMAIN,hax.co.id
