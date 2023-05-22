@@ -398,10 +398,8 @@ IP-CIDR,61.244.22.4/32,no-resolve
 DOMAIN,hax.co.id
 DOMAIN,woiden.id
 DOMAIN,tv.redrainl.site
-DOMAIN,hoytv-live-stream.hoy.tv
 DOMAIN-SUFFIX,boxjs.com
 DOMAIN-SUFFIX,ipify.org
-DOMAIN-SUFFIX,hkdtmb.com
 DOMAIN-SUFFIX,studiowildcard.com
 DOMAIN-SUFFIX,demonware.net
 DOMAIN-SUFFIX,bungie.net
@@ -425,7 +423,6 @@ DOMAIN-SUFFIX,hentaigeek.com
 DOMAIN-SUFFIX,ahentai.top
 DOMAIN-SUFFIX,hentaistream.xxx
 DOMAIN-SUFFIX,9convert.com
-DOMAIN-SUFFIX,hkanime.com
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,iyf.tv
@@ -435,9 +432,6 @@ DOMAIN-SUFFIX,dnvodcdn.me
 DOMAIN-SUFFIX,anygate.vip
 DOMAIN-SUFFIX,hitomi.la
 DOMAIN-SUFFIX,game.co.uk
-DOMAIN-SUFFIX,hklive.tv
 DOMAIN-SUFFIX,missav.com
 DOMAIN-KEYWORD,spike-chunsoft
-DOMAIN-KEYWORD,rthklive
 DOMAIN-KEYWORD,firstmail
-DOMAIN-SUFFIX,o.ss2.us
