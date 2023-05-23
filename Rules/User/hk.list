@@ -1,6 +1,8 @@
 #HK
 DOMAIN,hoytv-live-stream.hoy.tv
 DOMAIN-KEYWORD,rthklive
+DOMAIN-KEYWORD,rthktv
+DOMAIN-SUFFIX,rthk.hk
 DOMAIN-SUFFIX,hkdtmb.com
 DOMAIN-SUFFIX,hkanime.com
 DOMAIN-SUFFIX,hklive.tv
