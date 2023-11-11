@@ -3,6 +3,7 @@ USER-AGENT,NeteaseMusic*
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
 DOMAIN,iadmat.nosdn.127.net
 DOMAIN,netease.ugcvideoss.ourdvs.com
+DOMAIN-SUFFIX,wanproxy.127.net
 DOMAIN-SUFFIX,163yun.com
 DOMAIN-SUFFIX,yun-app.net
 DOMAIN-SUFFIX,api.iplay.163.com
@@ -19,6 +20,8 @@ DOMAIN-SUFFIX,push.126.net
 DOMAIN-SUFFIX,music.126.com
 DOMAIN-SUFFIX,music.126.net
 DOMAIN-SUFFIX,music.126.net.163jiasu.com
+DOMAIN-SUFFIX,music.126.net.w.kunluncan.com
+DOMAIN-SUFFIX,music.126.net.db8bff76.c.cdnhwc1.com
 DOMAIN-SUFFIX,dun.163.com
 DOMAIN-SUFFIX,music.163.com
 DOMAIN-SUFFIX,music.163.com.163jiasu.com
