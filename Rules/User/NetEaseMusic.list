@@ -1,6 +1,8 @@
 # NetEaseMusic 网易云音乐
 USER-AGENT,NeteaseMusic*
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*
+PROCESS-NAME,cloudmusic.exe
+PROCESS-NAME,com.netease.cloudmusic
 DOMAIN,iadmat.nosdn.127.net
 DOMAIN,netease.ugcvideoss.ourdvs.com
 DOMAIN-SUFFIX,wanproxy.127.net
@@ -61,3 +63,14 @@ IP-CIDR,223.252.199.66/31,no-resolve
 IP-CIDR,223.252.199.66/32,no-resolve
 IP-CIDR,223.252.199.67/32,no-resolve
 IP-CIDR,59.111.181.155/32,no-resolve
+IP-CIDR,14.22.20.212/32,no-resolve
+IP-CIDR,14.119.68.77/32,no-resolve
+IP-CIDR,39.156.150.161/32,no-resolve
+IP-CIDR,39.156.150.161/32,no-resolve
+IP-CIDR,59.36.133.253/32,no-resolve
+IP-CIDR,180.140.74.6/32,no-resolve
+IP-CIDR,183.240.39.13/32,no-resolve
+IP-CIDR,183.136.182.19/32,no-resolve
+IP-CIDR,115.238.119.68/32,no-resolve
+IP-CIDR,122.225.83.107/32,no-resolve
+IP-CIDR,122.225.83.109/32,no-resolve
