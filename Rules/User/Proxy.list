@@ -396,6 +396,8 @@ IP-CIDR,104.17.107.0/24,no-resolve
 #Others
 IP-CIDR,185.207.176.189/32,no-resolve
 IP-CIDR,61.244.22.4/32,no-resolve
+DOMAIN-KEYWORD,spike-chunsoft
+DOMAIN-KEYWORD,firstmail
 DOMAIN,hax.co.id
 DOMAIN,woiden.id
 DOMAIN,tv.redrainl.site
@@ -434,5 +436,4 @@ DOMAIN-SUFFIX,anygate.vip
 DOMAIN-SUFFIX,hitomi.la
 DOMAIN-SUFFIX,game.co.uk
 DOMAIN-SUFFIX,missav.com
-DOMAIN-KEYWORD,spike-chunsoft
-DOMAIN-KEYWORD,firstmail
+DOMAIN-SUFFIX,censys.io
