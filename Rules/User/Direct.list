@@ -3,6 +3,8 @@ IP-CIDR,224.0.0.251/32,no-resolve
 IP-CIDR,224.0.0.252/32,no-resolve
 IP-CIDR,239.255.255.250/32,no-resolve
 IP-CIDR,240.1.0.6/32,no-resolve
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,zhjtong.com
 DOMAIN-SUFFIX,time.is
 DOMAIN-SUFFIX,seetong.com
