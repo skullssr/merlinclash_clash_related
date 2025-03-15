@@ -440,6 +440,11 @@ DOMAIN-SUFFIX,vox-cdn.com
 DOMAIN-SUFFIX,zukrass.cc
 DOMAIN-SUFFIX,breached.to
 
+#temu
+DOMAIN-SUFFIX,temu.com
+IP-CIDR,123.45.67.89/32,no-resolve
+IP-CIDR,234.56.78.0/24,no-resolve
+
 #Others
 IP-CIDR,185.207.176.189/32,no-resolve
 IP-CIDR,61.244.22.4/32,no-resolve
