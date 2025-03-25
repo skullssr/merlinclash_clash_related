@@ -442,8 +442,13 @@ DOMAIN-SUFFIX,breached.to
 
 #temu
 DOMAIN-SUFFIX,temu.com
+DOMAIN-SUFFIX,temuapi.com
+DOMAIN-SUFFIX,temucdn.com
+DOMAIN-SUFFIX,temucdn.net
 IP-CIDR,123.45.67.89/32,no-resolve
 IP-CIDR,234.56.78.0/24,no-resolve
+IP-CIDR,47.75.0.0/16,no-resolve
+IP-CIDR,47.88.0.0/16,no-resolve
 
 #Others
 IP-CIDR,185.207.176.189/32,no-resolve
