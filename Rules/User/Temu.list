@@ -1,9 +1,9 @@
 #temu
-DOMAIN-KEYWORD,temu
+DOMAIN-KEYWORD,temu-
 DOMAIN-SUFFIX,temu.com
 DOMAIN-SUFFIX,temuapi.com
-DOMAIN-SUFFIX,temucdn.com
-DOMAIN-SUFFIX,temucdn.net
 DOMAIN-SUFFIX,temulogistics.com
-IP-CIDR,15.177.0.0/18,no-resolve
-IP-CIDR,108.160.0.0/16,no-resolve
+IP-CIDR,20.33.0.0/16,no-resolve
+IP-CIDR,20.15.0.0/20,no-resolve
+IP-CIDR,52.80.0.0/16,no-resolve
+IP-CIDR,54.222.0.0/15,no-resolve
