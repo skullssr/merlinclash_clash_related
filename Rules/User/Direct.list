@@ -43,3 +43,5 @@ DOMAIN-SUFFIX,feed.baidu.com
 DOMAIN-SUFFIX,laotv.la
 DOMAIN-SUFFIX,epg.pw
 DOMAIN-SUFFIX,bgxyk.com
+IP-CIDR,123.123.123.123/32,no-resolve
+DOMAIN-SUFFIX,cdntemucn.com
