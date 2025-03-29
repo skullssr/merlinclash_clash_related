@@ -3,7 +3,6 @@ DOMAIN-KEYWORD,temu-
 DOMAIN-SUFFIX,temu.com
 DOMAIN-SUFFIX,temuapi.com
 DOMAIN-SUFFIX,temulogistics.com
-DOMAIN-SUFFIX,kwcdn.com
 IP-CIDR,20.15.0.0/20,no-resolve
 IP-CIDR,20.33.0.0/16,no-resolve
 IP-CIDR,20.121.0.0/16,no-resolve
