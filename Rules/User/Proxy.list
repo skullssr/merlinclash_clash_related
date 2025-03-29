@@ -20,13 +20,6 @@ DOMAIN-SUFFIX,api.ip.sb.cdn.cloudflare.net
 DOMAIN-SUFFIX,a.nel.cloudflare.com
 IP-CIDR,104.17.107.0/24,no-resolve
 
-#temu
-DOMAIN-SUFFIX,temu.com
-DOMAIN-SUFFIX,temuapi.com
-DOMAIN-SUFFIX,temucdn.com
-DOMAIN-SUFFIX,temucdn.net
-DOMAIN-SUFFIX,kwcdn.com
-
 # MyList && Other
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,ifixit.com
