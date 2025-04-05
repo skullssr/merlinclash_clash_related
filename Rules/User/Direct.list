@@ -1,4 +1,4 @@
-#Direct
+# Direct
 IP-CIDR,224.0.0.251/32,no-resolve
 IP-CIDR,224.0.0.252/32,no-resolve
 IP-CIDR,239.255.255.250/32,no-resolve
@@ -29,3 +29,13 @@ DOMAIN-SUFFIX,epg.pw
 DOMAIN-SUFFIX,bgxyk.com
 IP-CIDR,123.123.123.123/32,no-resolve
 DOMAIN-SUFFIX,cdntemucn.com
+
+# Ad whitelist
+DOMAIN,ifs.tanx.com
+
+# AKTV
+DOMAIN-KEYWORD,aktv-stream
+DOMAIN-SUFFIX,aktv-stream.m16tv.cfd
+DOMAIN-SUFFIX,aktv.space
+DOMAIN-SUFFIX,smt.cdn6.rr.nu
+DOMAIN-SUFFIX,live.cdn.com.mp
