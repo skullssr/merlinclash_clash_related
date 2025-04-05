@@ -32,10 +32,3 @@ DOMAIN-SUFFIX,cdntemucn.com
 
 # Ad whitelist
 DOMAIN,ifs.tanx.com
-
-# AKTV
-DOMAIN-KEYWORD,aktv-stream
-DOMAIN-SUFFIX,aktv-stream.m16tv.cfd
-DOMAIN-SUFFIX,aktv.space
-DOMAIN-SUFFIX,smt.cdn6.rr.nu
-DOMAIN-SUFFIX,live.cdn.com.mp
