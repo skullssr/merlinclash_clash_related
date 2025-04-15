@@ -5,13 +5,6 @@ DOMAIN-KEYWORD,rthklive
 DOMAIN-KEYWORD,rthktv
 DOMAIN-SUFFIX,rthk.hk
 
-# AKTV
-DOMAIN-KEYWORD,aktv-stream
-DOMAIN-SUFFIX,aktv-stream.m16tv.cfd
-DOMAIN-SUFFIX,aktv.space
-DOMAIN-SUFFIX,smt.cdn6.rr.nu
-DOMAIN-SUFFIX,live.cdn.com.mp
-
 # HKDTMB
 DOMAIN-SUFFIX,hkdtmb.com
 DOMAIN-SUFFIX,hkanime.com
