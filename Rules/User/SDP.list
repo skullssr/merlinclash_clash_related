@@ -1,0 +1,5 @@
+# SDP
+USER-AGENT,零信任客户端*
+PROCESS-NAME,零信任客户端.exe
+DOMAIN-SUFFIX,10000.gd.cn
+IP-CIDR,132.122.112.0/24,no-resolve
