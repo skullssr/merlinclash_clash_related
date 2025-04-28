@@ -10,9 +10,6 @@ DOMAIN-SUFFIX,zhjtong.com
 DOMAIN-SUFFIX,time.is
 DOMAIN-SUFFIX,seetong.com
 USER-AGENT,Seetong*
-USER-AGENT,零信任客户端*
-PROCESS-NAME,零信任客户端.exe
-DOMAIN-SUFFIX,10000.gd.cn
 DOMAIN-SUFFIX,kuwo.cn
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,bitwarden.com
