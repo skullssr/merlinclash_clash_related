@@ -1,12 +1,3 @@
-#机场
-DOMAIN-SUFFIX,tianshuhl.com
-DOMAIN-SUFFIX,tshl.ru
-DOMAIN-SUFFIX,tshl.online
-DOMAIN-SUFFIX,tshl.cc
-DOMAIN-SUFFIX,tshl.us
-DOMAIN-SUFFIX,tshl.xyz
-DOMAIN-SUFFIX,xn--l6qx3lcvp58x.com
-
 #cloudflare CDN  
 DOMAIN-SUFFIX,ajax.cloudflare.com
 DOMAIN-SUFFIX,cdnjs.cloudflare.com
@@ -67,15 +58,11 @@ DOMAIN-SUFFIX,txmblr.com
 DOMAIN-SUFFIX,vox-cdn.com
 DOMAIN-SUFFIX,zukrass.cc
 DOMAIN-SUFFIX,breached.to
-IP-CIDR,185.207.176.189/32,no-resolve
-IP-CIDR,61.244.22.4/32,no-resolve
 DOMAIN-KEYWORD,spike-chunsoft
 DOMAIN-KEYWORD,firstmail
 DOMAIN,tv.redrainl.site
 DOMAIN-SUFFIX,boxjs.com
-DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,52poke.com
 DOMAIN-SUFFIX,52poke.wiki
-DOMAIN-SUFFIX,9convert.com
 DOMAIN-SUFFIX,112114.xyz
 DOMAIN-SUFFIX,aktv.space
