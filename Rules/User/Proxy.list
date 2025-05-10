@@ -66,3 +66,6 @@ DOMAIN-SUFFIX,52poke.com
 DOMAIN-SUFFIX,52poke.wiki
 DOMAIN-SUFFIX,112114.xyz
 DOMAIN-SUFFIX,aktv.space
+
+# Ad whitelist
+DOMAIN,graph.facebook.com
