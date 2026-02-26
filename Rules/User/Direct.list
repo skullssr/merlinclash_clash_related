@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,bgxyk.com
 DOMAIN-SUFFIX,hnytxj.com
 IP-CIDR,123.123.123.123/32,no-resolve
 DOMAIN-SUFFIX,cdntemucn.com
+DOMAIN-KEYWORD,fengshows
 
 # Ad whitelist
 DOMAIN,ifs.tanx.com
